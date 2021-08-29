@@ -1,0 +1,5 @@
+local Test = function ()
+	game.Workspace.Baseplate:Destroy()
+end
+
+Test()
